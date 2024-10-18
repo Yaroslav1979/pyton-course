@@ -13,6 +13,9 @@ aiofile = "^3.9.0"
 aiopath = "^0.7.7"
 aioshutil = "^1.5"
 aiohttp = "^3.10.10"
+sqlalchemy = "^2.0.36"
+aiosqlite = "^0.20.0"
+alembic = "^1.13.3"
 
 
 [build-system]
