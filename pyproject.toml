@@ -9,6 +9,10 @@ readme = "README.md"
 python = "^3.12"
 requests = "^2.32.3"
 flask = "^3.0.3"
+aiofile = "^3.9.0"
+aiopath = "^0.7.7"
+aioshutil = "^1.5"
+aiohttp = "^3.10.10"
 
 
 [build-system]
